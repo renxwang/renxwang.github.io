@@ -1,5 +1,5 @@
 ---
-layout: Article
+layout: article
 title: Initialization
 tags: help0.1
 ---
