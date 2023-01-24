@@ -15,8 +15,11 @@ main:
   - title: "Posts"
     url: /MyPosts/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
+
+  - title: "Movies"
+    url: /Movies/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/

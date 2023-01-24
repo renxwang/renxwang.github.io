@@ -15,12 +15,3 @@ OS: Win 10
 1. Github bash at the local repository folder.
 1. Enter git add . to make all the files in the folder ready to upload. 
 1. Enter git push to upload all the files to the online github repository.
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
