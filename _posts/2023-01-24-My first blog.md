@@ -1,7 +1,7 @@
 ---
-title: 'How to push to GitHub'
+title: 'How to push local files to GitHub'
 date: 2023-01-24
-permalink: /posts/2023/01/24/
+permalink: /posts/2023-01-24/
 tags:
   - cool posts
   - category1

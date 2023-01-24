@@ -1,20 +1,20 @@
 ---
-title: 'Future Blog Post'
-date: 2023-01-01
-permalink: /posts/blog-test/
+title: 'Blog Post Test'
+date: 2023-01-25
+permalink: /posts/2023-01-25/
 tags:
   - cool posts
   - category1
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+This post will show up by default.
 
-<!-- Headings are cool
+Headings are cool
 ======
 
 You can have many headings
 ======
 
 Aren't headings cool?
------- -->
+------
