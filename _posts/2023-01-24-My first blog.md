@@ -1,7 +1,7 @@
 ---
 title: 'How to push to GitHub'
 date: 2023-01-24
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2023/01/24/
 tags:
   - cool posts
   - category1
