@@ -13,13 +13,13 @@ main:
   #   url: /portfolio/
         
   - title: "Posts"
-    url: /MyPosts/
+    url: /myposts/
     
   # - title: "CV"
   #   url: /cv/
 
   - title: "Movies"
-    url: /Movies/
+    url: /movies/
     
   # - title: "Guide"
   #   url: /markdown/
