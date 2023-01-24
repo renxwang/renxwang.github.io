@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "My personal website"
+title: "RenxianWang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Let' s do some tests. [My homepage](https://renxwang.github.io)
-
+Let' s do some tests. [About Me](https://renxwang.github.io)
 
 This is the front page of a website.
 
