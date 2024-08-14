@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Let' s do some tests. [About Me](https://renxwang.github.io)
-
+Quantitative Research.
 This is the front page of a website.
 
 Getting started
