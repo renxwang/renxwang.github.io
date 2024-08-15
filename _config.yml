@@ -9,8 +9,8 @@
 locale                   : "en-HK"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Renxian Wang niyang3"
-description              : &description "A PhD student in HKU"
+name                     : &name "Renxian Wang, 王仁贤"
+description              : &description "PhD Candidate at HKU"
 url                      : https://renxwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "renxwang/renxwang.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Renxian Wang"
-  avatar           : "MyProfile.jpg"
-  bio              : "A PhD student in HKU"
+  avatar           : "MyProfile_202311.jpg"
+  bio              : "PhD Candidate at HKU"
   location         : "Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
