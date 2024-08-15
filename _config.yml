@@ -9,7 +9,7 @@
 locale                   : "en-HK"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Renxian Wang 王仁贤 niyang3"
+name                     : &name "Renxian Wang niyang3"
 description              : &description "A PhD student in HKU"
 url                      : https://renxwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
