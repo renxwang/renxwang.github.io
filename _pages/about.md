@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About Me"
+title: "Education"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-Dec 2021 - present, PhD student, HKU, Hong Kong
-Aug 2019 - Nov 2021, MPhil at CUHK, Hong Kong
+Dec 2021 - present, PhD student, HKU, Hong Kong/
+Aug 2019 - Nov 2021, MPhil at CUHK, Hong Kong/
 Sep 2015 - Jun 2019, BS at Northwestern Polytechnical University (NWPU), Xi'an, China
 
 Getting started
