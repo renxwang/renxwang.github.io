@@ -27,14 +27,12 @@ I have research experiences on various topics.
 
 Medical Ultrasound Imaging, [Prof. Lee's lab](https://www.eee.hku.hk/~wnlee/index.html), PhD study
 ------
-For site content, there is one markdown file for
+<!-- For site content, there is one markdown file for
 
-**Markdown generator**
+**Markdown generator** -->
 
 Bacterial Collective Motion, [Prof. Wu's lab](https://www.phy.cuhk.edu.hk/ylwu/), MPhil study
 ------
-For site content, there is one markdown file for
 
 Liquid Marble, [Prof. Li's lab](http://jszy.nwpu.edu.cn/2015010194), Bachelor study
 ------
-For site content, there is one markdown file for
