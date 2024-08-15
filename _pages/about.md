@@ -25,14 +25,7 @@ Experiences
 1. Check status by going to the repository settings, in the "GitHub pages" section -->
 I have research experiences on various topics.
 
-<style>
-.header-text {
-    font-size: 20px;
-}
-</style>
-
-<div class="header-text">Medical Ultrasound Imaging, [Prof. Lee's lab](https://www.eee.hku.hk/~wnlee/index.html), PhD study</div>
-<!-- Medical Ultrasound Imaging, [Prof. Lee's lab](https://www.eee.hku.hk/~wnlee/index.html), PhD study -->
+Medical Ultrasound Imaging, [Prof. Lee's lab](https://www.eee.hku.hk/~wnlee/index.html), PhD study
 ------
 <!-- For site content, there is one markdown file for
 
