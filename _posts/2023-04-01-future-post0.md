@@ -1,7 +1,7 @@
 ---
 title: 'Blog Post Test'
-date: 2023-01-26
-permalink: /posts/2023-01-26/
+date: 2023-04-01
+permalink: /posts/2023-04-01/
 tags:
   - cool posts
   - category1
